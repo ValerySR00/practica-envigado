@@ -1,0 +1,15 @@
+.text{
+    font-family: sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    margin-top: 320px;
+}
+.blue{
+    color: #4978FF;
+}
+
+body{
+    background-image: url(https://brayangomez22.github.io/business-website-1/images/bg.jpg);
+    align-items: center;
+}
